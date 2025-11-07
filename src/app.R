@@ -1,4 +1,6 @@
 library(shiny)
+install.packages("quantmod")
+install.packages("stochvol")
 library(quantmod)
 library(stochvol)
 
